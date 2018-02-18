@@ -32,7 +32,7 @@ disclaimer: Data used in the projects is for demonstration purposes only._
 		
 	_Tools: Pandas, Folium, Seaborn and Matplotlib_
 
-	
+- ### Data Structure and Algorithms	
 
 - ### Micro Projects: 
 
