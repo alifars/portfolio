@@ -17,7 +17,7 @@ disclaimer: Data used in the projects is for demonstration purposes only._
 
 - ### Natural Language Processing
 
-	- [3-way Sentiment Analysis for Tweets](https://github.com/sajal2692/data-science-portfolio/blob/master/3-Way%20Sentiment%20Analysis%20for%20Tweets.ipynb): 3-way polarity (positive, negative, neutral) classification system for tweets, without using NLTK's sentiment analysis engine.
+	- [iWordSense](https://github.com/sajal2692/data-science-portfolio/blob/master/3-Way%20Sentiment%20Analysis%20for%20Tweets.ipynb): a collection of python scripts that I wrote for my master thesis with the basic theme of word sense disambiguation. The actual title is "sense tagging a persian corpus". it includes the data preparation and supervised, semi-supervised and unsupervised modules.
 
 	- [Cross language Information Retrieval](https://github.com/sajal2692/data-science-portfolio/blob/master/Cross%20Language%20Information%20Retrieval.ipynb): Cross language information retrieval system (CLIR) which, given a query in German, searches text documents written in English.
 
