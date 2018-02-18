@@ -1,13 +1,13 @@
 # Data Science Portfolio
-Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks and scripts
+Repository containing portfolio of data science projects and courses completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks and scripts
 
-_Note: Data used in the projects (accessed under data directory) is for demonstration purposes only._
+disclaimer: Data used in the projects is for demonstration purposes only._
 
 ## Contents
 
 - ### Machine Learning
 
-	- [Predicting Boston Housing Prices](https://github.com/sajal2692/data-science-portfolio/blob/master/boston_housing/boston_housing.ipynb): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
+	- [Machine Learning A-Z™ Udemy course](https://github.com/alifars/portfolio/tree/master/%20Regression/Simple%20Linear%20Regression): a complete course in machine learning, I solved all the problems 
 	- [Supervised Learning: Finding Donors for CharityML](https://github.com/sajal2692/data-science-portfolio/blob/master/finding_donors/finding_donors.ipynb): Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
 	- [Unsupervised Learning: Creating Customer Segments](https://github.com/sajal2692/data-science-portfolio/blob/master/customer_segments/customer_segments.ipynb): Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
 	- [Reinforcement Learning: Training a Smartcab to Drive](https://github.com/sajal2692/Training-a-Smartcab-to-Drive): Creating an optimized Q-Learning driving agent that will navigate a Smartcab through its environment towards a goal.
