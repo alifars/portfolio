@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# My Portfolio
 Repository containing portfolio of data science projects and courses completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks and scripts
 
 disclaimer: Data used in the projects is for demonstration purposes only._
