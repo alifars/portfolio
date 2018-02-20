@@ -8,8 +8,8 @@ disclaimer: Data used in the projects is for demonstration purposes only._
 - ### Machine Learning
 
 	- [Machine Learning A-Z™ Udemy course](https://github.com/alifars/portfolio/tree/master/%20Regression/Simple%20Linear%20Regression): a complete course in machine learning, I solved all the problems 
-	  * 1.  data preprocessing
-	  * 1.  Regression
+	  *   data preprocessing
+	  *   Regression
 	
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_ 
