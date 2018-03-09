@@ -11,7 +11,6 @@ disclaimer: Data used in the projects is for demonstration purposes only._
 	  *   data preprocessing
 	  *   [Regression] (https://github.com/alifars/portfolio/tree/master/%20Regression)
 	
-
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_ 
 
 - ### Natural Language Processing
@@ -20,24 +19,12 @@ disclaimer: Data used in the projects is for demonstration purposes only._
 
 	_Tools: NLTK, scikit_
 	- [Sentiment analysis] (https://github.com/alifars/portfolio/tree/master/sentiment%20analysis): Tweeter sentiment analysis
-	
 
-- ### Data Science and Visualisation
-	- __Python__
-		- [Data Wrangling](https://github.com/alifars/data_wrangling): 
-		
-		
-	_Tools: Pandas, Matplotlib_
 
 - ### Data Structure and Algorithms
 	- [Python for data structures, algorithms and interviews Udemy course](https://github.com/alifars/portfolio/tree/master/data%20structures%20and%20algorthims): implementation of dynamic array, queue, stack, singly linked list, doubly linked list, binary search tree, graph, etc. in Python. There are set of solved interview questions for each data structure which I compiled from different sources such as litecode, geeksforgeeks
 	
 
-- ### Micro Projects: 
-
-	- __Python__
-		- [ML with Logistic Regression](https://github.com/sajal2692/data-science-portfolio/blob/master/ML%20Micro%20Projects/Machine%20Learning%20with%20Logistic%20Regression.ipynb): Using Logistic Regression to predict whether an internet user clicked an ad or not.
-		
 
 	
 
