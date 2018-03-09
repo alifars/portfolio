@@ -16,20 +16,22 @@ disclaimer: Data used in the projects is for demonstration purposes only._
 
 - ### Natural Language Processing
 
-	- [iWordSense](https://github.com/sajal2692/data-science-portfolio/blob/master/3-Way%20Sentiment%20Analysis%20for%20Tweets.ipynb): a collection of python scripts that I wrote for my master thesis with the basic theme of word sense disambiguation. The actual title is "sense tagging a persian corpus". it includes the data preparation and supervised, semi-supervised and unsupervised modules.
-
-	
+	- [iWordSense](https://github.com/alifars/portfolio/tree/master/iWordSense): a collection of python scripts that I wrote for my master thesis "sense tagging a persian corpus". it contains modules for word sense disbiguation using supervised, semi-supervised and unsupervised machine learning mehtods.
 
 	_Tools: NLTK, scikit_
+	- [Sentiment analysis] (https://github.com/alifars/portfolio/tree/master/sentiment%20analysis): Tweeter sentiment analysis
+	
 
 - ### Data Science and Visualisation
 	- __Python__
 		- [Data Wrangling](https://github.com/alifars/data_wrangling): 
 		
 		
-	_Tools: Pandas, Folium, Seaborn and Matplotlib_
+	_Tools: Pandas, Matplotlib_
 
-- ### Data Structure and Algorithms	
+- ### Data Structure and Algorithms
+	- [Python for data structures, algorithms and interviews Udemy course](https://github.com/alifars/portfolio/tree/master/data%20structures%20and%20algorthims): implementation of dynamic array, queue, stack, singly linked list, doubly linked list, binary search tree, graph, etc. in Python. There are set of solved interview questions for each data structure which I compiled from different sources such as litecode, geeksforgeeks
+	
 
 - ### Micro Projects: 
 
